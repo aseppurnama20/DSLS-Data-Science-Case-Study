@@ -1,2 +1,2 @@
-# DSLS-Data-Science-Case-Study
-Level Traffic Jam Prediction in Kota Cirebon
+# Level Traffic Jam Prediction in Kota Cirebon
+This repository aimed to show my capability in Data Science related project. I finished the ini project of Data Consultant Bootcamp conducted by Data Science Indonesia (DSI) and Data Science Learning Studio (DSLS). This project aimed to predict level of traffic jam in Kota Cirebon using Waze Dataset in 2022. I used Google Colaboratory notebook for run python code including Data Preparation, Data Cleansing and Processing, Data Modeling.
